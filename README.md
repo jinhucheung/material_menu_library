@@ -1,10 +1,12 @@
  Material Menu
 ===============
+
 Morphing Android menu, back, dismiss and check buttons
+
 ===============
 ### 备注
 详情请关注[原作者仓库](https://github.com/balysv/material-menu/edit/master/README.md)     
-项目使用时，直接download下来。
+
 ===============
 
 ![Demo Image](https://raw.github.com/balysv/material-menu/master/art/demo.gif)
