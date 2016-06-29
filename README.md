@@ -5,7 +5,7 @@ Morphing Android menu, back, dismiss and check buttons
 
 ===============
 ### 备注
-详情请关注[原作者仓库](https://github.com/balysv/material-menu/edit/master/README.md)     
+详情请关注[原作者仓库](https://github.com/balysv/material-menu)     
 
 ===============
 
